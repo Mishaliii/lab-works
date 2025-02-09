@@ -1,0 +1,39 @@
+. head(LETTERS)=lowercase
+. tail(letters)=uppercase
+
+. print(unique(tolower(str)))=unique elements of a string
+
+
+. cbind(a,b,c)= to make a matrix
+
+
+. print(type(a))=to get type of vector a
+
+
+. mean(nums)
+. sum(nums)
+. prod(sum)
+. seq(sum)
+
+
+. print(sum(x,na.rm=TRUE))=To ignore NA and NAN values
+
+
+. (sort(x))=Ascending
+. (sort(x, descending=TRUE))
+
+
+. is.element(25,x)=to check whether element 25 is in x
+
+
+. print(tail(x, n=1))=to access the last value of vector x)
+
+
+. setdiff(a,b)=to find the elements of a given vector that are not in another given vector.
+
+
+. rev(x)=reverse order of vector x
+
+. (dim(v))=find dimension of vector v
+. (length(v))=length of vector v
+
